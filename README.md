@@ -3,6 +3,8 @@ Description:
 Users after loging in the portal and can upload any file with maximum size up to 10 GB.
 
 
+--------------------------
+
 Installation:
 
 
@@ -17,8 +19,13 @@ Requirement - MAMP or XAMPP etc...
 That's it just run it on server and you are through.
 
 
+-------------------------
 
 Coded in :
 
-Js, PHP, CSS , HTML, Jquery.
+Js, PHP, CSS , HTML, Jquery by Krit Karan Singh and Anurag Mishra
 
+
+For any query please feel free to drop an email at kritkaran.b13@iiits.in or anurag.m13@iiits.in .
+
+Happy Uploading :)
